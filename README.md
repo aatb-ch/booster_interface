@@ -1,3 +1,3 @@
-### booster_interfaces
+### booster_interface
 
-Extracted from official Booster Robotics [robocup_demo](https://github.com/BoosterRobotics/robocup_demo) repo for standalone use.
+ROS2 package with Booster message definitions, extracted from official Booster Robotics [robocup_demo](https://github.com/BoosterRobotics/robocup_demo) repo for standalone use.
